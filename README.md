@@ -8,10 +8,6 @@ Gulp plugin for use with audiosprite-pkg
 ```bash
 $ npm install FireNeslo/gulp-audiosprite-pkg --save
 ```
-### bower
-```bash
-$ bower install FireNeslo/gulp-audiosprite-pkg --save
-```
 ## Usage
 
 ```js
