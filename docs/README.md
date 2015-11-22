@@ -8,10 +8,6 @@
 ```bash
 $ npm install <%= pkg.repository %> --save
 ```
-### bower
-```bash
-$ bower install <%= pkg.repository %> --save
-```
 ## Usage
 
 ```js
